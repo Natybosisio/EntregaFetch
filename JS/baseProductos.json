@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "img": "../SRC/img/raqueta-1.jpg",
+      "producto": "raqueta wilson",
+      "descripcion": "raqueta usada",
+      "precio": 2000
+     },
+     {
+      "id": 2,
+      "img": "../SRC/img/raqueta-2.jpg",
+      "producto": "raqueta 2",
+      "descripcion": "raqueta usada",
+      "precio": 3000
+     },
+     {
+      "id": 3,
+      "img": "../SRC/img/raqueta-3.jpg",
+      "producto": "raqueta 3",
+      "descripcion": "raqueta usada",
+      "precio": 4000
+     }, 
+     {
+      "id": 4,
+      "img": "../SRC/img/raqueta-4.jpg",
+      "producto": "raqueta 4",
+      "descripcion": "raqueta usada",
+      "precio": 2500
+     }
+       
+]
+

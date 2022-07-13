@@ -1,0 +1,15 @@
+[ {
+    "profesor": "Martin Giraldi",
+    "img": "../SRC/img/profe1.png",
+    "descripcion": "Desde sus primeros pasos en el tenis, Martin se destacó como un gran jugador, representando al Club River Plate en la década de los 90, De muy joven, comenzó a pisar fuerte como coach en el Club Comunicaciones, donde forjo su experiencia vinculada al tenis. Luego, trabajo como supervisor y responsable de los parques Manuel Belgrano, Sarmiento, General Roca y Campo Municipal de Golf y fue director de la escuela pública de tenis, en la Dirección General de Deportes de la -Ciudad de Buenos Aires. es profesor en nuestro club desde el 2010, con un excelente manejo de grupo infantiles. Asimismo dicta clases individuales y grupales para adultos",
+    "horario": "clases por la tarde",
+    "dni": 33333333   
+},
+   {
+    "profesor": "Maria de las Mercedes",
+    "img": "../SRC/img/profe2.jpg",
+    "descripcion": "maria comenzó a dar sus primeros pasos en el tenis desde muy pequeña, como una muy hábil jugadora que ha logrado destacarse a nivel nacional a lo largo de su niñez y adolescencia. Luego de recibirse como profesora Nacional de Educación Física en el Instituto N1 Dr. Enrique Romero Brest, unió su vocación con su pasión para convertirse hoy en una entrenadora de tenistas de alto rendimiento. Su primer trabajo gerencial en el ámbito tenístico lo llevo adelante en el campo de deportes del Colegio Cardenal Copello, en la Ciudad de Buenos Aires.brinda clases desde 2015 en nuestro club. Y se especializa en clases individuales y preparacion en forma prosesional. El programa para jugadores avanzados incluye a menores y juveniles que han superado la etapa formativa en la Escuela de Tenis y encaran las competencias federadas de manera individual o integrando los equipos del club, sean o no socios.",
+    "horario": "clases por la mañana",
+    "dni": 22222222    
+}
+]
